@@ -23,3 +23,8 @@ Import the project into Eclipse as “CS 230 Project One Game App” and run `Pr
 
 ## Design Document
 See the accompanying Software Design Document for the executive summary, design constraints, and domain-model description that references the provided UML.
+
+## Repository contents
+
+This repository currently contains the Java sources under `src/com/gamingroom/` and this README. The UML diagram (`CS 230 Project One Milestone UML.png`) and the Software Design Document mentioned above are not included in the tree.
+
